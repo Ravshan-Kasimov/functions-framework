@@ -48,7 +48,8 @@ Legend:
 ## Performance and Best Practices
 
 For optimal performance in serverless environments, see:
-- **[Performance Optimization Guide](PERFORMANCE.md)** - Best practices for implementing high-performance Functions Frameworks
+- **[Performance Optimization Guide](PERFORMANCE.md)** - Comprehensive best practices for implementing high-performance Functions Frameworks
+- **[Performance Checklist](PERFORMANCE_CHECKLIST.md)** - Quick-reference checklist for implementers
 - **[Specification Improvements](SPECIFICATION_IMPROVEMENTS.md)** - Suggested enhancements to this specification for better performance guidance
 
 ## Specification Summary
