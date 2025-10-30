@@ -45,6 +45,12 @@ Legend:
 - **Lint**: Tests code style.
 - **Conformance**: Tests adherence to the Functions Framework contract.
 
+## Performance and Best Practices
+
+For optimal performance in serverless environments, see:
+- **[Performance Optimization Guide](PERFORMANCE.md)** - Best practices for implementing high-performance Functions Frameworks
+- **[Specification Improvements](SPECIFICATION_IMPROVEMENTS.md)** - Suggested enhancements to this specification for better performance guidance
+
 ## Specification Summary
 
 A Functions Framework instantiates web server and invokes function code in response to an **HTTP** (`http`) or **CloudEvent** (`cloudevent`) request depending on the function's signature type. A Functions Framework may also optionally support functions with signature type `event` for legacy-style events.
