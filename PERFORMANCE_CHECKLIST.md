@@ -75,7 +75,7 @@ This quick-reference checklist helps Functions Framework implementers ensure the
 - [ ] Configuration is cached (not re-parsed per request)
 - [ ] Parsed function code is cached
 - [ ] Connection pools serve as connection cache
-- [ ] No `etag` header is sent by default
+- [ ] No `ETag` header is sent by default
 - [ ] Framework **doesn't** cache request-specific data
 - [ ] Caches are cleared when appropriate
 
