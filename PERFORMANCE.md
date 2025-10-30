@@ -313,3 +313,9 @@ Key principles for high-performance Functions Framework implementations:
 5. **Monitor and measure**: Track performance metrics to identify issues
 
 By following these guidelines, Functions Framework implementations can provide excellent performance for serverless workloads.
+
+## Related Documentation
+
+- **[Performance Checklist](PERFORMANCE_CHECKLIST.md)** - Quick-reference implementation checklist
+- **[Specification Improvements](SPECIFICATION_IMPROVEMENTS.md)** - Suggested enhancements to the core specification
+- **[Functions Framework Specification](README.md#functions-framework-contract)** - Core contract and requirements

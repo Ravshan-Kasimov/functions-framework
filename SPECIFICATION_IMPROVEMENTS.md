@@ -317,3 +317,9 @@ When implementing a Functions Framework, ensure:
 - [ ] Performance benchmarks are maintained and tracked over time
 
 These improvements would make the specification more actionable for implementers and result in more performant Functions Framework implementations across all languages.
+
+## Related Documentation
+
+- **[Performance Optimization Guide](PERFORMANCE.md)** - Comprehensive best practices and anti-patterns
+- **[Performance Checklist](PERFORMANCE_CHECKLIST.md)** - Quick-reference implementation checklist
+- **[Functions Framework Specification](README.md#functions-framework-contract)** - Current specification
