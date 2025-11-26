@@ -208,6 +208,7 @@ Before releasing:
 
 ## References
 
+- [Identifying and Fixing Slow Code](IDENTIFYING_SLOW_CODE.md) - Guide to identifying and fixing slow or inefficient code patterns
 - [Performance Optimization Guide](PERFORMANCE.md) - Detailed best practices
 - [Specification Improvements](SPECIFICATION_IMPROVEMENTS.md) - Suggested spec enhancements
 - [Functions Framework Specification](README.md#functions-framework-contract) - Core requirements

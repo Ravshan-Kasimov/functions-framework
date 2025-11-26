@@ -320,6 +320,7 @@ These improvements would make the specification more actionable for implementers
 
 ## Related Documentation
 
+- **[Identifying and Fixing Slow Code](IDENTIFYING_SLOW_CODE.md)** - Guide to identifying and fixing slow or inefficient code patterns
 - **[Performance Optimization Guide](PERFORMANCE.md)** - Comprehensive best practices and anti-patterns
 - **[Performance Checklist](PERFORMANCE_CHECKLIST.md)** - Quick-reference implementation checklist
 - **[Functions Framework Specification](README.md#functions-framework-contract)** - Current specification
