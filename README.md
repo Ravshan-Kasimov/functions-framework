@@ -48,6 +48,7 @@ Legend:
 ## Performance and Best Practices
 
 For optimal performance in serverless environments, see:
+- **[Identifying and Fixing Slow Code](IDENTIFYING_SLOW_CODE.md)** - Guide to identifying and fixing slow or inefficient code patterns
 - **[Performance Optimization Guide](PERFORMANCE.md)** - Comprehensive best practices for implementing high-performance Functions Frameworks
 - **[Performance Checklist](PERFORMANCE_CHECKLIST.md)** - Quick-reference checklist for implementers
 - **[Specification Improvements](SPECIFICATION_IMPROVEMENTS.md)** - Suggested enhancements to this specification for better performance guidance

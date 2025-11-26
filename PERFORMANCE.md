@@ -316,6 +316,7 @@ By following these guidelines, Functions Framework implementations can provide e
 
 ## Related Documentation
 
+- **[Identifying and Fixing Slow Code](IDENTIFYING_SLOW_CODE.md)** - Guide to identifying and fixing slow or inefficient code patterns
 - **[Performance Checklist](PERFORMANCE_CHECKLIST.md)** - Quick-reference implementation checklist
 - **[Specification Improvements](SPECIFICATION_IMPROVEMENTS.md)** - Suggested enhancements to the core specification
 - **[Functions Framework Specification](README.md#functions-framework-contract)** - Core contract and requirements
