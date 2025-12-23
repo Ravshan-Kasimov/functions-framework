@@ -24,15 +24,15 @@ The Functions Framework is implemented for these runtimes:
 
 |Languages|Unit Tests|Lint Test|Conformance Tests|
 |---|---|---|---|
-|[Node.js][ff_node]| [![][ff_node_unit_img]][ff_node_unit_link] | [![][ff_node_lint_img]][ff_node_lint_link] | [![][ff_node_conformance_img]][ff_node_conformance_link] |
-|[Go][ff_go]| [![][ff_go_unit_img]][ff_go_unit_link] | [![][ff_go_lint_img]][ff_go_lint_link] | [![][ff_go_conformance_img]][ff_go_conformance_link] |
-|[Java][ff_java]| [![][ff_java_unit_img]][ff_java_unit_link] | [![][ff_java_lint_img]][ff_java_lint_link] | [![][ff_java_conformance_img]][ff_java_conformance_link] |
-|[PHP][ff_php]| [![][ff_php_unit_img]][ff_php_unit_link] | [![][ff_php_lint_img]][ff_php_lint_link] | [![][ff_php_conformance_img]][ff_php_conformance_link] |
-|[Python][ff_python]| [![][ff_python_unit_img]][ff_python_unit_link] | [![][ff_python_lint_img]][ff_python_lint_link] | [![][ff_python_conformance_img]][ff_python_conformance_link] |
-|[Ruby][ff_ruby]| [![][ff_ruby_unit_img]][ff_ruby_unit_link] | [![][ff_ruby_lint_img]][ff_ruby_lint_link] | [![][ff_ruby_conformance_img]][ff_ruby_conformance_link] |
-|[.NET][ff_dotnet]| [![][ff_dotnet_unit_img]][ff_dotnet_unit_link] | [![][ff_dotnet_lint_img]][ff_dotnet_lint_link] | [![][ff_dotnet_conformance_img]][ff_dotnet_conformance_link] |
-|[C++][ff_cpp]| [![][ff_cpp_unit_img]][ff_cpp_unit_link] | [![][ff_cpp_lint_img]][ff_cpp_lint_link] | [![][ff_cpp_conformance_img]][ff_cpp_conformance_link] |
-|[Dart][ff_dart]| [![][ff_dart_unit_img]][ff_dart_unit_link] | [![][ff_dart_lint_img]][ff_dart_lint_link] | [![][ff_dart_conformance_img]][ff_dart_conformance_link] |
+|[Node.js][ff_node]| [![](https://github.com/GoogleCloudPlatform/functions-framework-nodejs/workflows/Node.js%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-nodejs/actions?query=workflow%3A"Node.js+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-nodejs/workflows/Node.js%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-nodejs/actions?query=workflow%3A"Node.js+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-nodejs/workflows/Node.js%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-nodejs/actions?query=workflow%3A"Node.js+Conformance+CI") |
+|[Go][ff_go]| [![](https://github.com/GoogleCloudPlatform/functions-framework-go/workflows/Go%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-go/actions?query=workflow%3A"Go+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-go/workflows/Go%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-go/actions?query=workflow%3A"Go+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-go/workflows/Go%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-go/actions?query=workflow%3A"Go+Conformance+CI") |
+|[Java][ff_java]| [![](https://github.com/GoogleCloudPlatform/functions-framework-java/workflows/Java%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-java/actions?query=workflow%3A"Java+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-java/workflows/Java%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-java/actions?query=workflow%3A"Java+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-java/workflows/Java%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-java/actions?query=workflow%3A"Java+Conformance+CI") |
+|[PHP][ff_php]| [![](https://github.com/GoogleCloudPlatform/functions-framework-php/workflows/PHP%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-php/actions?query=workflow%3A"PHP+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-php/workflows/PHP%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-php/actions?query=workflow%3A"PHP+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-php/workflows/PHP%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-php/actions?query=workflow%3A"PHP+Conformance+CI") |
+|[Python][ff_python]| [![](https://github.com/GoogleCloudPlatform/functions-framework-python/workflows/Python%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-python/actions?query=workflow%3A"Python+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-python/workflows/Python%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-python/actions?query=workflow%3A"Python+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-python/workflows/Python%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-python/actions?query=workflow%3A"Python+Conformance+CI") |
+|[Ruby][ff_ruby]| [![](https://github.com/GoogleCloudPlatform/functions-framework-ruby/workflows/Ruby%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-ruby/actions?query=workflow%3A"Ruby+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-ruby/workflows/Ruby%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-ruby/actions?query=workflow%3A"Ruby+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-ruby/workflows/Ruby%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-ruby/actions?query=workflow%3A"Ruby+Conformance+CI") |
+|[.NET][ff_dotnet]| [![](https://github.com/GoogleCloudPlatform/functions-framework-dotnet/workflows/.NET%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-dotnet/actions?query=workflow%3A".NET+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-dotnet/workflows/.NET%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-dotnet/actions?query=workflow%3A".NET+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-dotnet/workflows/.NET%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-dotnet/actions?query=workflow%3A".NET+Conformance+CI") |
+|[C++][ff_cpp]| [![](https://github.com/GoogleCloudPlatform/functions-framework-cpp/workflows/C++%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-cpp/actions?query=workflow%3A%22C%2B%2B+Unit+CI%22) | [![](https://github.com/GoogleCloudPlatform/functions-framework-cpp/workflows/C%2B%2B%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-cpp/actions?query=workflow%3A%22C%2B%2B+Lint+CI%22) | [![](https://github.com/GoogleCloudPlatform/functions-framework-cpp/workflows/C++%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-cpp/actions?query=workflow%3A%22C%2B%2B+Conformance+CI%22) |
+|[Dart][ff_dart]| [![](https://github.com/GoogleCloudPlatform/functions-framework-dart/workflows/Dart%20Unit%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-dart/actions?query=workflow%3A"Dart+Unit+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-dart/workflows/Dart%20Lint%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-dart/actions?query=workflow%3A"Dart+Lint+CI") | [![](https://github.com/GoogleCloudPlatform/functions-framework-dart/workflows/Dart%20Conformance%20CI/badge.svg)](https://github.com/GoogleCloudPlatform/functions-framework-dart/actions?query=workflow%3A"Dart+Conformance+CI") |
 
 ### Community Function Frameworks
 
@@ -236,63 +236,3 @@ The framework should return 4XX HTTP status error codes for client errors and 5X
 [ff_dotnet]: https://github.com/GoogleCloudPlatform/functions-framework-dotnet
 [ff_cpp]: https://github.com/GoogleCloudPlatform/functions-framework-cpp
 [ff_dart]: https://github.com/GoogleCloudPlatform/functions-framework-dart
-
-<!-- Unit Test links -->
-[ff_node_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-nodejs/workflows/Node.js%20Unit%20CI/badge.svg
-[ff_node_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-nodejs/actions?query=workflow%3A"Node.js+Unit+CI"
-[ff_go_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-go/workflows/Go%20Unit%20CI/badge.svg
-[ff_go_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-go/actions?query=workflow%3A"Go+Unit+CI"
-[ff_java_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-java/workflows/Java%20Unit%20CI/badge.svg
-[ff_java_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-java/actions?query=workflow%3A"Java+Unit+CI"
-[ff_php_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-php/workflows/PHP%20Unit%20CI/badge.svg
-[ff_php_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-php/actions?query=workflow%3A"PHP+Unit+CI"
-[ff_python_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-python/workflows/Python%20Unit%20CI/badge.svg
-[ff_python_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-python/actions?query=workflow%3A"Python+Unit+CI"
-[ff_ruby_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-ruby/workflows/Ruby%20Unit%20CI/badge.svg
-[ff_ruby_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-ruby/actions?query=workflow%3A"Ruby+Unit+CI"
-[ff_dotnet_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-dotnet/workflows/.NET%20Unit%20CI/badge.svg
-[ff_dotnet_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-dotnet/actions?query=workflow%3A".NET+Unit+CI"
-[ff_cpp_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-cpp/workflows/C++%20Unit%20CI/badge.svg
-[ff_cpp_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-cpp/actions?query=workflow%3A%22C%2B%2B+Unit+CI%22
-[ff_dart_unit_img]: https://github.com/GoogleCloudPlatform/functions-framework-dart/workflows/Dart%20Unit%20CI/badge.svg
-[ff_dart_unit_link]:  https://github.com/GoogleCloudPlatform/functions-framework-dart/actions?query=workflow%3A"Dart+Unit+CI"
-
-<!-- Lint Test links -->
-[ff_node_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-nodejs/workflows/Node.js%20Lint%20CI/badge.svg
-[ff_node_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-nodejs/actions?query=workflow%3A"Node.js+Lint+CI"
-[ff_go_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-go/workflows/Go%20Lint%20CI/badge.svg
-[ff_go_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-go/actions?query=workflow%3A"Go+Lint+CI"
-[ff_java_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-java/workflows/Java%20Lint%20CI/badge.svg
-[ff_java_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-java/actions?query=workflow%3A"Java+Lint+CI"
-[ff_php_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-php/workflows/PHP%20Lint%20CI/badge.svg
-[ff_php_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-php/actions?query=workflow%3A"PHP+Lint+CI"
-[ff_python_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-python/workflows/Python%20Lint%20CI/badge.svg
-[ff_python_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-python/actions?query=workflow%3A"Python+Lint+CI"
-[ff_ruby_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-ruby/workflows/Ruby%20Lint%20CI/badge.svg
-[ff_ruby_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-ruby/actions?query=workflow%3A"Ruby+Lint+CI"
-[ff_dotnet_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-dotnet/workflows/.NET%20Lint%20CI/badge.svg
-[ff_dotnet_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-dotnet/actions?query=workflow%3A".NET+Lint+CI"
-[ff_cpp_lint_img]: https://github.com/GoogleCloudPlatform/functions-framework-cpp/workflows/C%2B%2B%20Lint%20CI/badge.svg
-[ff_cpp_lint_link]: https://github.com/GoogleCloudPlatform/functions-framework-cpp/actions?query=workflow%3A%22C%2B%2B+Lint+CI%22
-[ff_dart_lint_img]:  https://github.com/GoogleCloudPlatform/functions-framework-dart/workflows/Dart%20Lint%20CI/badge.svg
-[ff_dart_lint_link]:  https://github.com/GoogleCloudPlatform/functions-framework-dart/actions?query=workflow%3A"Dart+Lint+CI"
-
-<!-- Conformance Test links -->
-[ff_node_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-nodejs/workflows/Node.js%20Conformance%20CI/badge.svg
-[ff_node_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-nodejs/actions?query=workflow%3A"Node.js+Conformance+CI"
-[ff_go_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-go/workflows/Go%20Conformance%20CI/badge.svg
-[ff_go_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-go/actions?query=workflow%3A"Go+Conformance+CI"
-[ff_java_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-java/workflows/Java%20Conformance%20CI/badge.svg
-[ff_java_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-java/actions?query=workflow%3A"Java+Conformance+CI"
-[ff_php_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-php/workflows/PHP%20Conformance%20CI/badge.svg
-[ff_php_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-php/actions?query=workflow%3A"PHP+Conformance+CI"
-[ff_python_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-python/workflows/Python%20Conformance%20CI/badge.svg
-[ff_python_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-python/actions?query=workflow%3A"Python+Conformance+CI"
-[ff_ruby_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-ruby/workflows/Ruby%20Conformance%20CI/badge.svg
-[ff_ruby_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-ruby/actions?query=workflow%3A"Ruby+Conformance+CI"
-[ff_dotnet_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-dotnet/workflows/.NET%20Conformance%20CI/badge.svg
-[ff_dotnet_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-dotnet/actions?query=workflow%3A".NET+Conformance+CI"
-[ff_cpp_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-cpp/workflows/C++%20Conformance%20CI/badge.svg
-[ff_cpp_conformance_link]: https://github.com/GoogleCloudPlatform/functions-framework-cpp/actions?query=workflow%3A%22C%2B%2B+Conformance+CI%22
-[ff_dart_conformance_link]:  https://github.com/GoogleCloudPlatform/functions-framework-dart/actions?query=workflow%3A"Dart+Conformance+CI"
-[ff_dart_conformance_img]: https://github.com/GoogleCloudPlatform/functions-framework-dart/workflows/Dart%20Conformance%20CI/badge.svg
